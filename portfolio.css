@@ -1,0 +1,11 @@
+:root {
+    --primary-background-color: #222;
+    --secondary-background-color: #111;
+    --lighter-background-color: #d1c39c;
+    --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    --font-family: monospace;
+    --primary-text-color: #FFF;
+    --secondary-text-color: #AAA;
+    --third-text-color: #FFF;
+    --h2-decoration: none;
+}

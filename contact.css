@@ -1,0 +1,29 @@
+:root {
+    --primary-background-color: #b8ab87;
+    --secondary-background-color: #693713;
+    --lighter-background-color: #d1c39c;
+    --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    --primary-text-color: #FFF;
+    --third-text-color: var(--primary-text-color);
+    --secondary-text-color: rgb(219, 187, 147);
+    --h2-decoration: underline dotted;
+}
+
+.myname{
+    font-weight: bolder;
+    text-align: center;
+}
+
+input, textarea{
+    color: var(--primary-text-color);
+    background-color: var(--lighter-background-color);
+    border: 1px solid var(--primary-text-color);
+}
+
+.input-submit:hover{
+    background-color: var(--secondary-background-color);
+    border-color: var(--secondary-text-color);
+    color: var(--secondary-text-color);
+}
+/* Pour type submit faire curseur */
+

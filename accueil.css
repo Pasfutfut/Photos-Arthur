@@ -1,0 +1,9 @@
+:root {
+    --primary-background-color: #b8ab87;
+    --secondary-background-color: #693713;
+    --lighter-background-color: #d1c39c;
+    --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    --primary-text-color: #FFF;
+    --secondary-text-color: rgb(219, 187, 147);
+    --h2-decoration: underline dotted;
+}
